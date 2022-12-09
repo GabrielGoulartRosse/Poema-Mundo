@@ -1,4 +1,4 @@
-Olá mundo
+Olá mundo e Espaço sideral
 Um mundo tem árvores
 Filmes
 Animais
@@ -13,3 +13,6 @@ Sinais
 Tem mickey mouse
 Macarrão
 Lasanha
+O espaço tem ets
+Planetas
+e estrelas
