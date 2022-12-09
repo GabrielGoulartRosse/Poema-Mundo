@@ -5,6 +5,8 @@ Pessoas
 Comida
 Prédios
 Lagos
+Mares
+Peixes
 Vulcões
 Sinais
 Macarrão
