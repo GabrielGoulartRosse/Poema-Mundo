@@ -3,4 +3,5 @@ Um mundo tem árvores
 Animais
 Pessoas
 Prédios
+Lagos
 Sinais
