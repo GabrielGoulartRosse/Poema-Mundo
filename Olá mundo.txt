@@ -4,4 +4,5 @@ Animais
 Pessoas
 Prédios
 Lagos
+Vulcões
 Sinais
