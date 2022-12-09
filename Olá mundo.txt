@@ -2,7 +2,10 @@ Olá mundo
 Um mundo tem árvores
 Animais
 Pessoas
+Comida
 Prédios
 Lagos
 Vulcões
 Sinais
+Macarrão
+Lasanha
