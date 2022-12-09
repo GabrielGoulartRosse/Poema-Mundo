@@ -8,6 +8,8 @@ Prédios
 Lagos
 Mares
 Peixes
+Céu
+Nuvens
 Baleias
 Tubarões
 Vulcões
@@ -15,4 +17,4 @@ Sinais
 Tem mickey mouse
 Macarrão
 Lasanha
-Céu
+
