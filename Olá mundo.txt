@@ -23,4 +23,7 @@ Lasanha
 O espaço tem estrelas
 planetas
 cometas
+meteoros
+constelações
 E extra terrestres
+
